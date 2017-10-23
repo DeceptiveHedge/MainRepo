@@ -23,4 +23,5 @@
     <preference name="permissions"                value="none"/>   
 	
 	<access origin="*"/>
+    <plugin name="cordova-plugin-whitelist" spec="~1.3.2" />
 </widget>
